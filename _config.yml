@@ -1,23 +1,23 @@
 # Site
-repository: sproogen/resume-theme
+repository: my-modern-resume
 favicon: images/favicon.ico
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+name: Pierre-Olivier Renard
+title: Ingénieur Industriel
+email: pierreolivier.renard.job@gmail.com
+website: renard.website
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
+twitter_username: ///
+github_username:  ///
 # dribbble_username: jekyll
-# facebook_username: jekyll
+facebook_username: Pierre-Olivier Renard
 # flickr_username: jekyll
-instagram_username: chillwildlife
-linkedin_username: jameswgrant
+instagram_username: ///
+linkedin_username: Pierre-Olivier Renard
 # pinterest_username: jekyll
-youtube_username: globalmtb
+youtube_username: ///
 # googleplus_username: +jekyll
 
 # About Section

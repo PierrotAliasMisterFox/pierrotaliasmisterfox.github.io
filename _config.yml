@@ -21,12 +21,12 @@ linkedin_username: Pierre-Olivier Renard
 # googleplus_username: +jekyll
 
 # About Section
-# about_title: About Me
+about_title: Profil
 about_profile_image: images/photoprofil.png
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  Ingénieur de formation, j’ai toujours aimé les sciences et leurs applications concrètes en entreprise. J'ai pu mettre à l'épreuve mes connaissances d'organisation SCRUM en accompagnant les membres de l'équipe sur les projets. La compréhension du besoin client, l'étude de la solution technique, son intégration et sa mise en place en atelier m’ont permis d’avoir une vue « End to End » des projets.
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  #I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
 
 # Projects Section
 # projects_title: Projects
